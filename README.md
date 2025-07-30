@@ -55,11 +55,9 @@ Brief intro with dynamic title and navbar
 ├── index.html
 ├── README.md
 
-
+----
 ## 📩 Contact
-
-📧 [pavanmuramreddy@gmail.com](mailto:pavanmuramreddy@gmail.com)  
-📱 +91 6301266104  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-muramreddy-54729127b/)  
 📸 [Instagram](https://www.instagram.com/pavan__reddy.__/)
 
