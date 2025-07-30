@@ -13,13 +13,6 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 - 🎨 Clean and interactive UI using CSS transitions
 - 📁 Resume download option
 
----
-
-## 📸 Screenshots
-
-![Home Section](images/screenshots/home.png)
-![About Section](images/screenshots/about.png)
-*(Add screenshots if available)*
 
 ---
 
@@ -55,4 +48,29 @@ Brief intro with dynamic title and navbar
 ---
 
 ## 📂 Folder Structure
+
+├── images/
+│ └── background.jpg, logo.png, user.png
+├── style.css
+├── index.html
+├── README.md
+
+
+## 📩 Contact
+
+📧 [pavanmuramreddy@gmail.com](mailto:pavanmuramreddy@gmail.com)  
+📱 +91 6301266104  
+🔗 [LinkedIn](https://www.linkedin.com/in/pavan-muramreddy-54729127b/)  
+📸 [Instagram](https://www.instagram.com/pavan__reddy.__/)
+
+---
+
+## 📄 License
+
+This project is for personal portfolio use. Feel free to fork it and modify it for your own portfolio!
+
+---
+
+⭐ Star this repository if you liked it!
+
 
